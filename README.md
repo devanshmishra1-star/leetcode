@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0437-path-sum-iii](https://github.com/devanshmishra1-star/leetcode/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0437-path-sum-iii](https://github.com/devanshmishra1-star/leetcode/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -28,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devanshmishra1-star/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0437-path-sum-iii](https://github.com/devanshmishra1-star/leetcode/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
