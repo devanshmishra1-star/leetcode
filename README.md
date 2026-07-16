@@ -38,4 +38,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/devanshmishra1-star/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Array
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/devanshmishra1-star/leetcode/tree/master/0720-longest-word-in-dictionary) |
+## Hash Table
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/devanshmishra1-star/leetcode/tree/master/0720-longest-word-in-dictionary) |
+## String
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/devanshmishra1-star/leetcode/tree/master/0720-longest-word-in-dictionary) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/devanshmishra1-star/leetcode/tree/master/0720-longest-word-in-dictionary) |
+## Sorting
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/devanshmishra1-star/leetcode/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
